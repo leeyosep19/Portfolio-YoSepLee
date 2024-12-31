@@ -2,11 +2,10 @@
 
 ### 프론트 엔드 개발자입니다!!  ✨.
 
-라이브 사이트입니다  [데모 &rarr;](https://portfolio-yo-sep.netlify.app/)
+라이브 사이트입니다  [클릭릭 &rarr;데모 들어가기](https://portfolio-yo-sep.netlify.app/)
 
 ![Portfolio Gif](/images/portfolio.gif)
 
-## Want to learn How to create a template like this ?
 
 ## 프론트 개발자가 되기위해서
 
@@ -24,7 +23,7 @@
 ![Lighthouse Report](/images/Controller.png)
 ![Lighthouse Report](/images/shoppingmall.png)
 
-### 자세한 내용은 [데모 &rarr;](https://portfolio-yo-sep.netlify.app/)❤️.
+### 자세한 내용은 [킅릭 &rarr;데모 들어가기](https://portfolio-yo-sep.netlify.app/)❤️.
 
 ## 시작 🚀
 
