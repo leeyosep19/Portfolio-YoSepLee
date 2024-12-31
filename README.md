@@ -2,7 +2,7 @@
 
 ### 프론트 엔드 개발자입니다!!  ✨.
 
-라이브 사이트입니다  [클릭릭 &rarr;데모 들어가기](https://portfolio-yo-sep.netlify.app/)
+라이브 사이트입니다  [클릭 &rarr;데모 들어가기](https://portfolio-yo-sep.netlify.app/)
 
 ![Portfolio Gif](/images/portfolio.gif)
 
