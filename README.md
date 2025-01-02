@@ -4,7 +4,7 @@
 
 라이브 사이트입니다  [클릭 &rarr;데모 들어가기](https://portfolio-yo-sep.netlify.app/)
 
-![Portfolio Gif](/images/portfolio.gif)
+![Portfolio Gif](/images/my-port.png)
 
 
 ## 프론트 개발자가 되기위해서
